@@ -1,2 +1,2 @@
-# onokumus.github.io
+# neumajor.me
 kişisel site
